@@ -1,11 +1,7 @@
+.env
 __pycache__/
 *.pyc
 .venv/
-*.egg-info
-.DS_Store
-dist/
+venv/
 build/
-*.egg
-uv.lock
-.env
-
+*.egg-info/
